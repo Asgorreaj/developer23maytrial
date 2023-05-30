@@ -10,7 +10,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
@@ -173,4 +173,20 @@ section {
 
 .skill-description {
     color: #757474;
+}
+
+.experience-title{
+    text-align: center;
+}
+
+
+.developer{
+    color: rgb(179, 154, 17);
+
+}
+.Full-Stack-developer{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    font-size: 15px;
+    font-weight: 700;
 }
