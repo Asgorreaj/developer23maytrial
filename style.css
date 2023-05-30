@@ -21,7 +21,7 @@ section {
 
 .half-width img {
     max-width: 70%;
-    padding: 30px 70px 50px 50px;
+    padding: 30px 70px ;
 
 
 
@@ -41,4 +41,42 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+
+.DOWNLOAD-RESUME {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(194, 194, 238), rgb(79, 230, 230));
+    padding: 10px;
+    color: whitesmoke;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+img{
+    max-width: 90%;
+    max-height: 100%;
+}
+
+.middle-half-img {
+    max-width: 200%;
+    margin-top: 50px;
+    margin-left: 100px;
+
+
+
+}
+
+.middle-half-width {
+    max-width: 70%;
+    padding: 30px 70px;
+
+}
+
+.middle-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 7%;
+
 }
